@@ -1,68 +1,18 @@
-# Piyush Sanjay Bhadange
+# 💫 About Me:
+I am currently Graduated from Matoshri College of engineering and Research Centre in Bachelor of engineering in Electronics and Telecommunication Engineering<br>  
 
-**Electronics and Telecommunication Engineer**
 
-## Contact Information
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushrx1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/piyush-bhadange-a8a01328b) 
 
-- **Address:** Flat No 17, Vaishnav Prasanna Society, Pandurang Nagar, Sansari Village, Devlali Camp, Maharashtra - 422401
-- **Mobile:** 08169181687
-- **Email:** bhadange.piyush@gmail.com
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bhadangepiyush-droid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=bhadangepiyush-droid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhadangepiyush-droid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Career Objective
+---
+[![](https://komarev.com/ghpvc/?username=bhadangepiyush-droid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Motivated Software and Hardware Engineer seeking an opportunity to apply technical skills in developing efficient and innovative solutions while growing professionally.
-
-## Academic Qualification
-
-| S.No. | Qualification | University / Board | Year | Percentage / SGPA |
-|---|---|---|---|---|
-| 1 | SSC | Maharashtra State Board of Secondary and Higher Secondary Education, Pune | 2020 | 66.80% |
-| 2 | HSC | Maharashtra State Board of Secondary and Higher Secondary Education, Pune | 2022 | 61.67% |
-| 3 | B.E. in Electronics and Telecommunication Engineering | Savitribai Phule Pune University | 2026 | SGPA: 7.47 |
-
-## Project
-
-### College Bus Tracking Using GNSS
-
-In the final year project, I created a **College Bus Tracking System using GNSS**. In this project, longitudinal and latitudinal data is received from the GNSS antenna. This data is sent to the Arduino Uno R4 WiFi module through a wired connection. The Arduino Uno R4 WiFi module then sends this data to the Adafruit IO platform through a WiFi connection. The Adafruit IO platform contains a map block through which the data can be viewed.
-
-## Certifications
-
-- Certificate of Internship in Cloud Computing
-- Certificate in Master in Cloud Architecture with AI *(Pursuing)*
-- Certificate in Microsoft Azure
-- Certificate in Python with A+ Grade
-- Certificate of Participation in Project Competition
-
-## Skills
-
-- C
-- C++
-- Python
-- Shell Scripting
-- GitHub
-- Git Bash
-- VMware Workstation
-- VirtualBox
-
-## Work Experience
-
-- 45-day internship experience in Cloud Computing
-
-## Personal Information
-
-- **Father's Name:** Sanjay Jagannath Bhadange
-- **Date of Birth:** 29 September 2004
-- **Languages Known:** Hindi, English, Marathi
-- **Gender:** Male
-- **Nationality:** Indian
-- **Marital Status:** Unmarried
-
-## Declaration
-
-I hereby declare that the above information given by me is true to the best of my knowledge.
-
-**Date:**  
-**Place:** Maharashtra
-
-**Piyush Sanjay Bhadange**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
