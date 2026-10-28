@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>My name is *Piyush Sanjay Bhadange, and I have completed my Bachelor of Engineering (BE) in Electronics and Telecommunication Engineering (ENTC). I am currently pursuing a **Master’s in Cloud Architecture with AI at Fortune Cloud. I have recently completed a **Microsoft Azure course through Technokraft Training and Solution Pvt. Ltd.*, where I gained knowledge of cloud computing, Azure Virtual Machines, Virtual Networks, Load Balancers, Application Gateway, and Virtual Machine Scale Sets (VMSS).
+<br>My name is Piyush Sanjay Bhadange, and I have completed my Bachelor of Engineering (BE) in Electronics and Telecommunication Engineering (ENTC). I am currently pursuing a Master’s in Cloud Architecture with AI at Fortune Cloud. I have recently completed a Microsoft Azure course through Technokraft Training and Solution Pvt. Ltd., where I gained knowledge of cloud computing, Azure Virtual Machines, Virtual Networks, Load Balancers, Application Gateway, and Virtual Machine Scale Sets (VMSS).
 
 
 ## 🌐 Socials:
